@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodingman&label=Profile%20views&color=0e75b6&style=flat" alt="thecodingman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodingman" alt="thecodingman" /></a> </p>
-
 - 🔭 I’m currently working on Accenture Project
 
 - 🌱 I’m currently learning **SolidJS, Quik**
