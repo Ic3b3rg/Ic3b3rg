@@ -6,10 +6,12 @@
 - 🔭 I’m currently working at Madisoft
 
 - 🌱 I’m currently learning **SolidJS, Quik**
+  
+- 🤴 I’m admin of **[Frontenders Community](https://github.com/frontenders-community) **
 
 - 💬 Ask me about **react, angular, rxjs, redux, nextjs, javascript, nodeJS**
 
-- ⚡ Fun fact **I'm a drummer**
+- ⚡ Fun fact **I'm a drummer** and **FPV drone pilot and builder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
