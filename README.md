@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SolidJS, Quik**
   
-- 🤴 I’m admin of **[Frontenders Community](https://github.com/frontenders-community) **
+- 🤴 I’m admin of [Frontenders Community](https://github.com/frontenders-community)
 
 - 💬 Ask me about **react, angular, rxjs, redux, nextjs, javascript, nodeJS**
 
