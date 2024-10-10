@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at Madisoft
 
-- 🌱 I’m currently learning **SolidJS, Quik**
+- 🌱 I’m currently learning **Pattern architecture**
   
 - 🤴 I’m admin of [Frontenders Community](https://github.com/frontenders-community)
 
-- 💬 Ask me about **react, angular, rxjs, redux, nextjs, javascript, nodeJS**
+- 💬 Ask me about **react, angular, rxjs, redux, nextjs, javascript, typescript, react native**
 
 - ⚡ Fun fact **I'm a drummer** and **FPV drone pilot and builder**
 
