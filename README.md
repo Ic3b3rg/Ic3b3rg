@@ -6,8 +6,6 @@
 - 🔭 I’m currently working at Madisoft
 
 - 🌱 I’m currently learning **Pattern architecture**
-  
-- 🤴 I’m admin of [Frontenders Community](https://github.com/frontenders-community)
 
 - 💬 Ask me about **react, angular, rxjs, redux, nextjs, javascript, typescript, react native**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/2nXjjXQJnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2nXjjXQJnn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/silvio-ceccarini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="redirect to linkedin profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
